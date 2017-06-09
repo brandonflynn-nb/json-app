@@ -3,7 +3,7 @@
 Purpose: Demonstrate the ability to visualize and manipulate JSON data.
 
 It has a functional registration/log-in system. The data is stored in a json file on the server.
-It is quite unsecure to use a public JSON file for user data so security measures should be taken
+It is quite unsecure to use a public JSON file for user data so security measures should be taken.
 Passwords are currently hashed with md5.
 An email authentication code is also hashed with md5.
 
